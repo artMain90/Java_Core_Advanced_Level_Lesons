@@ -1,4 +1,4 @@
-package Second;
+package Lesson_1_1;
 
 public class User {
     private final String TYPE = "Human1";

@@ -1,7 +1,7 @@
-package Second;
+package Lesson_1_1;
 
-import Base.Animal;
-import Base.Jumping;
+import Lesson_1.Animal;
+import Lesson_1.Jumping;
 
 public class AnimalApp {
     public static void main(String[] args) {

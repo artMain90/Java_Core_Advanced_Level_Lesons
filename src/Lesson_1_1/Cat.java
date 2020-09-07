@@ -1,8 +1,8 @@
-package Second;
+package Lesson_1_1;
 
-import Base.Animal;
-import Base.Jumping;
-import Base.Swimming;
+import Lesson_1.Animal;
+import Lesson_1.Jumping;
+import Lesson_1.Swimming;
 
 import java.util.Objects;
 

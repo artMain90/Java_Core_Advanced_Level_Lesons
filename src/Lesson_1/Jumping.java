@@ -1,5 +1,8 @@
 package Lesson_1;
 
-public interface Jumping {//Интерфейс может наследоваться от другого интерфейса через extends.
+public interface Jumping {
+    default void jump2(){
+        System.out.println("Кошка прыгнула дважды");
+    }
     void jump();
 }

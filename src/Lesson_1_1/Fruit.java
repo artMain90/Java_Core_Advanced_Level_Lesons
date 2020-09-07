@@ -1,4 +1,4 @@
-package Second;
+package Lesson_1_1;
 
 public enum Fruit {
     ORANGE("Апельсин",3),

@@ -1,6 +1,6 @@
-package Base;
+package Lesson_1;
 
-import Second.User;
+import Lesson_1_1.User;
 
 public class UserApp{
     public static void main(String[] args) {

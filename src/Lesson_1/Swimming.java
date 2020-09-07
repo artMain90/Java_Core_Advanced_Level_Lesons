@@ -1,6 +1,4 @@
-package Base;
-
-import org.omg.CORBA.Object;
+package Lesson_1;
 
 public interface Swimming{
 
